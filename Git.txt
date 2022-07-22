@@ -1,0 +1,6 @@
+1.Создать внешний репозиторий с названием Git:        Actions on github
+2.Клонировать репозиторий Git на локальный компьютер: git clone 'url'
+3.Внутри локального Git создать файл “Git.txt”:       touch Git.txt
+4.Добавить файл под гит:                              git add Git.txt
+5.Закоммитить файл:                                   git commit -m "Created Git.txt"
+6.Отправить файл на внешний GitHub репозиторий:       git push
